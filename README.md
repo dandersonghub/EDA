@@ -5,3 +5,5 @@ Descriptive statistics and Pearson correlation coefficients were calculated to r
 
 ### Correlation Heatmap
 ![](https://github.com/dandersonghub/Exploratory-Data-Analysis/blob/main/Heatmap.png)
+### Simple Linear Regression
+![](https://github.com/dandersonghub/Exploratory-Data-Analysis/blob/main/SLR_.png)
