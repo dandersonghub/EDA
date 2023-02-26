@@ -4,6 +4,6 @@ This analysis includes both simple linear regression and multiple linear regress
 The multiple linear regression model includes three predictors: age, smoking status, and BMI, and was used to explain the variation in blood pressure. For every one-year increase in age, blood pressure increases by 0.43 units on average; smokers have blood pressure that is 1.21 units higher on average than non-smokers; and for every one-unit increase in BMI, blood pressure increases by 0.26 units on average. Overall, these findings suggest that age, smoking status, and BMI are all significant predictors of blood pressure and that controlling for all three predictors can explain 24% of the variation in blood pressure.
 
 ### Correlation Heatmap
-![](https://github.com/dandersonghub/Exploratory-Data-Analysis/blob/main/Heatmap.png)
+![](https://github.com/dandersonghub/Exploratory-Data-Analysis/blob/main/LT.png)
 ### Simple Linear Regression
-![](https://github.com/dandersonghub/Exploratory-Data-Analysis/blob/main/SLR_.png)
+![](https://github.com/dandersonghub/Exploratory-Data-Analysis/blob/main/MLR_.png)
